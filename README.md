@@ -1,2 +1,0 @@
-# JavaProgramming_SolvingProblemswithSoftware_week3
-Week3 Java Source Codes
